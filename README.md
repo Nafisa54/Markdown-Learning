@@ -11,3 +11,16 @@ follow up session with my instructor
 **this is BOLD**
 __Nigeria__
 
+# List
+- Number 1
+- Number 2
+- Number 3
+
+* Number 1
+* Number 2
+* Number 3
+
++ Number 1
++ Number 2
++ Number 3
+
