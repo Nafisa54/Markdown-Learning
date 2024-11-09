@@ -8,3 +8,6 @@ follow up session with my instructor
 
 ###### heading 6
 ####### heading 7
+** this is BOLD **
+__ Nigeria __
+
